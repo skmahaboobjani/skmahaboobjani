@@ -22,7 +22,7 @@ I have experience in HTML, CSS, and JavaScript, and I'm currently learning React
  In my free time, I enjoy contributing to open source projects and experimenting with new technologies..</p>
 
 <h2>projects</h2><br/>
-GitFindApp:<a href="https://github.com/skmahaboobjani/movie_own"/>
+GitFindApp: <a href="https://github.com/skmahaboobjani/movie_own"/><br/>
 ● Developed a user-friendly interface for a movie app that allows users to easily search for and
 discover new films.
 ● It is a project of OMDB API for RESTful web service to obtain movie information, all content and
