@@ -1,6 +1,8 @@
 
 
-Hi there 👋,<h1> I'm Shaik Mahaboob Jani!</h1><br/>
+<h1>Hi there 👋, I'm Shaik Mahaboob Jani!</h1><br/>
+
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/man-working-with-laptop-flat-design-style_180868-1756.jpg?w=740"/>
 🌟 Pronouns: [He]<br/>
 🎨 I'm a front-end developer with 6 months of experience<br/>.
 🌱 I’m currently learning [state management with Redux].<br/>
@@ -8,7 +10,7 @@ Hi there 👋,<h1> I'm Shaik Mahaboob Jani!</h1><br/>
 🎧 I love listening to  music.<br/>
 
 📫 You can reach me at [skmabujani521@gmail.com] or <br/>
-            L <a href="https://www.linkedin.com/in/mahaboobjani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?                          style=for-the-badge&logo=linkedin&logoColor=white"/></a> LinkedIn 
+            L <a href="https://www.linkedin.com/in/mahaboobjani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?                          style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
             
              I'm a Frontend Developer  with a passion for building responsive and user-friendly web applications. 
              I have experience in HTML, CSS, and JavaScript, and I'm currently learning React.
