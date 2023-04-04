@@ -22,8 +22,7 @@ I have experience in HTML, CSS, and JavaScript, and I'm currently learning React
  In my free time, I enjoy contributing to open source projects and experimenting with new technologies..</p>
 
 <h2>projects<br/>
-GitFindApp: <a href="https://github.com/skmahaboobjani/movie_own"/><br/></h2>
-
+<p><a href="https://github.com/skmahaboobjani/movie_own">Git Find App</a></p>
 
 🚀 Skills<br/>
 🚀 HTML: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" width="30" height="30"/><br/>
