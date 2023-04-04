@@ -23,10 +23,7 @@ I have experience in HTML, CSS, and JavaScript, and I'm currently learning React
 
 <h2>projects</h2><br/>
 GitFindApp: <a href="https://github.com/skmahaboobjani/movie_own"/><br/>
-● Developed a user-friendly interface for a movie app that allows users to easily search for and
-discover new films.
-● It is a project of OMDB API for RESTful web service to obtain movie information, all content and
-images on the site
+
 
 🚀 Skills<br/>
 🚀 HTML: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" width="30" height="30"/><br/>
