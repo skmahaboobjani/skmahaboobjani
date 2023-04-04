@@ -1,5 +1,5 @@
 
-
+![logo](https://media.istockphoto.com/id/1256982008/vector/motivational-quote-never-stop-learning-education-concept-hand-script-lettering.jpg?s=612x612&w=0&k=20&c=StEcssbYCJ0HxkYiXPVl_YRUqyKObPtzkgQFsX5dqUs=)
 <h1>Hi there 👋, I'm Shaik Mahaboob Jani!</h1><br/>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/man-working-with-laptop-flat-design-style_180868-1756.jpg?w=740"/>
@@ -10,7 +10,7 @@
 🎧 I love listening to  music.<br/>
 
 📫 You can reach me at [skmabujani521@gmail.com] or <br/>
-            L <a href="https://www.linkedin.com/in/mahaboobjani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?                          style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+             <a href="https://www.linkedin.com/in/mahaboobjani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?                          style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
             
              I'm a Frontend Developer  with a passion for building responsive and user-friendly web applications. 
              I have experience in HTML, CSS, and JavaScript, and I'm currently learning React.
