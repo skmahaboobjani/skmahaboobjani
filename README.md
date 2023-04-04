@@ -24,7 +24,7 @@ I have experience in HTML, CSS, and JavaScript, and I'm currently learning React
 <h2>projects<br/>
 <p><a href="https://github.com/skmahaboobjani/movie_own">Movie App</a></p><br/>
  ● Developed a user-friendly interface for a movie app that allows users to easily search for and
-discover new films.
+discover new films.<br/>
 ● It is a project of OMDB API for RESTful web service to obtain movie information, all content and
 images on the site .
 
