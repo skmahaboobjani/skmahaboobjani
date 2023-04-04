@@ -12,17 +12,16 @@
 
 📫 You can reach me at [skmabujani521@gmail.com] or <br/>
              <a href="https://www.linkedin.com/in/mahaboobjani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?                          style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-            
-           <p>  I'm a Frontend Developer  with a passion for building responsive and user-friendly web applications.</p> 
-            <p> I have experience in HTML, CSS, and JavaScript, and I'm currently learning React..</p>
-             <p>I have completed several online courses and personal projects to strengthen my skills in Frontend Development..</p>
-             <p>I'm eager to collaborate with others and contribute to innovative projects that make a positive impact..</p>
-            
-           <p> I'm passionate about building accessible and performant web applications that provide an excellent user experience..</p>
-           <p> In my free time, I enjoy contributing to open source projects and experimenting with new technologies..</p>
+           
+I'm a Frontend Developer  with a passion for building responsive and user-friendly web applications.</p> 
+I have experience in HTML, CSS, and JavaScript, and I'm currently learning React..</p>
+ I have completed several online courses and personal projects to strengthen my skills in Frontend Development..</p>
+ I'm eager to collaborate with others and contribute to innovative projects that make a positive impact..</p>
+ I'm passionate about building accessible and performant web applications that provide an excellent user experience..</p>
+ In my free time, I enjoy contributing to open source projects and experimenting with new technologies..</p>
 
 
-🚀 Skills
+🚀 Skills<br/>
 🚀 HTML: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" width="30" height="30"/><br/>
 🚀 CSS: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Logo" width="30" height="30"/><br/>
 🚀 JavaScript: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="30" height="30"/><br/>
