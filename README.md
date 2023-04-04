@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="coding" width="400" src="https://media.istockphoto.com/id/1256982008/vector/motivational-quote-never-stop-learning-education-concept-hand-script-lettering.jpg?s=612x612&w=0&k=20&c=StEcssbYCJ0HxkYiXPVl_YRUqyKObPtzkgQFsX5dqUs="/>
+<img align="center" alt="coding" width="400px" src="https://media.istockphoto.com/id/1256982008/vector/motivational-quote-never-stop-learning-education-concept-hand-script-lettering.jpg?s=612x612&w=0&k=20&c=StEcssbYCJ0HxkYiXPVl_YRUqyKObPtzkgQFsX5dqUs="/>
 <h1>Hi there 👋, I'm Shaik Mahaboob Jani!</h1><br/>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/man-working-with-laptop-flat-design-style_180868-1756.jpg?w=740"/>
