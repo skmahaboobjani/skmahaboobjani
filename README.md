@@ -8,7 +8,7 @@ Hi there 👋,<h1> I'm Shaik Mahaboob Jani!</h1><br/>
 🎧 I love listening to  music.<br/>
 
 📫 You can reach me at [skmabujani521@gmail.com] or <br/>
-            LinkedIn : <a href="https://www.linkedin.com/in/mahaboobjani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?                          style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+            L <a href="https://www.linkedin.com/in/mahaboobjani/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?                          style=for-the-badge&logo=linkedin&logoColor=white"/></a> LinkedIn 
             
              I'm a Frontend Developer  with a passion for building responsive and user-friendly web applications. 
              I have experience in HTML, CSS, and JavaScript, and I'm currently learning React.
