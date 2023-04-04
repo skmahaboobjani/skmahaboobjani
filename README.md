@@ -38,7 +38,7 @@ I have experience in HTML, CSS, and JavaScript, and I'm currently learning React
 ● and fetching data from multiple sources using RapidAPI while building the best Cryptocurrency App - Cryptoverse.. (Conditional Rendering)<br/>
 
 
-
+<br/>
 🚀 Skills<br/>
 🚀 HTML: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Logo" width="30" height="30"/><br/>
 🚀 CSS: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Logo" width="30" height="30"/><br/>
