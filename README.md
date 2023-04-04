@@ -32,6 +32,11 @@ I have experience in HTML, CSS, and JavaScript, and I'm currently learning React
 ● It is a React app to provide search functionality Fix invalid username showing initially issue.<br/>
 ● Implement showing list of followers and following as well. (Conditional Rendering)<br/>
 ● Load more functionality and created Details followers and following List Footer and search <br/>.
+<br/>  
+<p><a href="https://github.com/skmahaboobjani/crptonew">cryptocurrency</a></p><br/>
+● State Management using Redux Toolkit, UI Creation using Ant Design, creating charts using Chart.js, <br/>
+● and fetching data from multiple sources using RapidAPI while building the best Cryptocurrency App - Cryptoverse.. (Conditional Rendering)<br/>
+
 
 
 🚀 Skills<br/>
