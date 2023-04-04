@@ -21,8 +21,8 @@ I have experience in HTML, CSS, and JavaScript, and I'm currently learning React
  I'm passionate about building accessible and performant web applications that provide an excellent user experience..</p>
  In my free time, I enjoy contributing to open source projects and experimenting with new technologies..</p>
 
-<h2>projects</h2><br/>
-GitFindApp: <a href="https://github.com/skmahaboobjani/movie_own"/><br/>
+<h2>projects<br/>
+GitFindApp: <a href="https://github.com/skmahaboobjani/movie_own"/><br/></h2>
 
 
 🚀 Skills<br/>
