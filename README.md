@@ -1,7 +1,7 @@
 
 
-Hi there 👋, I'm Shaik Mahaboob Jani!<br/>
-🌟 Pronouns: [He/She/They]<br/>
+Hi there 👋,<h1> I'm Shaik Mahaboob Jani!</h1><br/>
+🌟 Pronouns: [He]<br/>
 🎨 I'm a front-end developer with 6 months of experience<br/>.
 🌱 I’m currently learning [state management with Redux].<br/>
 💬 Ask me about [HTML, CSS, JavaScript, React].<br/>
