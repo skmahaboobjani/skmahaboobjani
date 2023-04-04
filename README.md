@@ -4,6 +4,7 @@
 <h1>Hi there 👋, I'm Shaik Mahaboob Jani!</h1><br/>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/man-working-with-laptop-flat-design-style_180868-1756.jpg?w=740"/>
+<h2>About me 🎓<h2><br/>
 🌟 Pronouns: [He]<br/>
 🎨 I'm a front-end developer with 6 months of experience<br/>.
 🌱 I’m currently learning [state management with Redux].<br/>
