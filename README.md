@@ -33,9 +33,9 @@ Tools:<br/>
 🚀 GitHub: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo" width="30" height="30"/><br/>
 🚀 VSCode: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="30" height="30"/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skmahaboobjani&show_icons=true&locale=en&layout=compact" alt="skmahaboobjani" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skmahaboobjani&show_icons=true&locale=en&layout=compact" alt="skmahaboobjani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skmahaboobjani&show_icons=true&locale=en" alt="skmahaboobjani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skmahaboobjani&" alt="skmahaboobjani" /></p>
 
 
 
